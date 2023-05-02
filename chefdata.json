@@ -2,7 +2,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "chef_picture": "https://i.ibb.co/gMhqT2c/dfbg.jpg",
-        "chef_name": "Giovanni",
+        "chef_name": "Giovanni Infantino",
         "years_of_experience": 4,
         "number_of_recipes": 4,
         "likes": 300
@@ -10,7 +10,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "chef_picture": "https://i.ibb.co/pRbC2yh/dfdsf.jpg",
-        "chef_name": "Alessandro",
+        "chef_name": "Alessandro Escober",
         "years_of_experience": 3,
         "number_of_recipes": 5,
         "likes": 350
@@ -18,7 +18,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
         "chef_picture": "https://i.ibb.co/3YXsMKz/OIP.jpg",
-        "chef_name": "Francesca",
+        "chef_name": "Pablo Francesca",
         "years_of_experience": 2,
         "number_of_recipes": 3,
         "likes": 400
@@ -26,7 +26,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
         "chef_picture": "https://i.ibb.co/BLzvJHC/OIP-1.jpg",
-        "chef_name": "Chiara",
+        "chef_name": "Chiara JJ Ojatunji",
         "years_of_experience": 6,
         "number_of_recipes": 4,
         "likes": 450
@@ -34,7 +34,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
         "chef_picture": "https://i.ibb.co/JF8nxk6/fd.png",
-        "chef_name": "Marco",
+        "chef_name": "Marco Piare",
         "years_of_experience": 5,
         "number_of_recipes": 5,
         "likes": 200

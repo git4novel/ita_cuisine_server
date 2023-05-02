@@ -1,0 +1,32 @@
+[
+    {
+        "dish_image" : "https://i.ibb.co/fYFhwBv/Screenshot-2023-05-03-001934.png",
+        "dish_name" : "Lasagne alla Bolognese",
+        "likes" : 444
+    },
+    {
+        "dish_image" : "https://i.ibb.co/bLvvtxQ/Screenshot-2023-05-03-001923.png",
+        "dish_name" : "Vitello Tonnato",
+        "likes" : 200
+    },
+    {
+        "dish_image" : "https://i.ibb.co/hm2mS0Z/Screenshot-2023-05-03-001851.png",
+        "dish_name" : "Pizza Margherita",
+        "likes" : 230
+    },
+    {
+        "dish_image" : "https://i.ibb.co/sg8BVJf/Screenshot-2023-05-03-001836.png",
+        "dish_name" : "Melanzane alla Parmigiana",
+        "likes" : 400
+    },
+    {
+        "dish_image" : "https://i.ibb.co/6DnDvS7/Screenshot-2023-05-03-001823.png",
+        "dish_name" : "Gnocchi di Patate",
+        "likes" : 120
+    },
+    {
+        "dish_image" : "https://i.ibb.co/HFkCpVM/Screenshot-2023-05-03-001810.png",
+        "dish_name" : "Fettuccine al Pomodoro",
+        "likes" : 300
+    }
+]
