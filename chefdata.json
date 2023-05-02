@@ -1,6 +1,6 @@
-{
-    "chefs": [
+[
       {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "chef_picture": "https://i.ibb.co/gMhqT2c/dfbg.jpg",
         "chef_name": "Giovanni",
         "years_of_experience": 4,
@@ -8,6 +8,7 @@
         "likes": 300
       },
       {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "chef_picture": "https://i.ibb.co/pRbC2yh/dfdsf.jpg",
         "chef_name": "Alessandro",
         "years_of_experience": 3,
@@ -15,6 +16,7 @@
         "likes": 350
       },
       {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
         "chef_picture": "https://i.ibb.co/3YXsMKz/OIP.jpg",
         "chef_name": "Francesca",
         "years_of_experience": 2,
@@ -22,6 +24,7 @@
         "likes": 400
       },
       {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
         "chef_picture": "https://i.ibb.co/BLzvJHC/OIP-1.jpg",
         "chef_name": "Chiara",
         "years_of_experience": 6,
@@ -29,6 +32,7 @@
         "likes": 450
       },
       {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
         "chef_picture": "https://i.ibb.co/JF8nxk6/fd.png",
         "chef_name": "Marco",
         "years_of_experience": 5,
@@ -36,6 +40,7 @@
         "likes": 200
       },
       {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
         "chef_picture": "https://i.ibb.co/PFPqFkL/dfd.jpg",
         "chef_name": "Laura",
         "years_of_experience": 2,
@@ -43,7 +48,6 @@
         "likes": 250
       }
     ]
-  }
 
   
 

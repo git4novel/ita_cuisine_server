@@ -9,7 +9,7 @@ const app = express();
 app.use(cors());
 
 app.get('/', (req, res)=>{
-    res.send('this is awesome in server')
+    res.send(chefData)
 })
 
 app.listen(5000, () =>{
