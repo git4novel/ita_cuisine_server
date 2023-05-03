@@ -12,7 +12,9 @@ app.get('/', (req, res)=>{
     res.send(chefData)
 })
 
-
+app.get('/favdishes', (req, res) =>{
+    res.send(favDishes);
+})
 
 app.listen(5000, () =>{
     console.log('Port is running here on 5000');
