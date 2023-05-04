@@ -1,0 +1,159 @@
+[
+    {
+        "recipe_name": "Pad Thai",
+        "Ingredients": ["rice noodles", "shrimp", "bean sprouts", "peanuts", "lime"],
+        "chef_id": 1,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Beef and Broccoli",
+        "Ingredients": ["beef sirloin", "broccoli florets", "soy sauce", "brown sugar", "cornstarch"],
+        "chef_id": 2,
+        "cooking_method": "Fry",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Alfredo",
+        "Ingredients": ["fettuccine pasta", "chicken breasts", "heavy cream", "parmesan cheese", "garlic"],
+        "chef_id": 1,
+        "cooking_method": "steam fry",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Shrimp Scampi",
+        "Ingredients": ["shrimp", "spaghetti", "butter", "lemon juice", "garlic"],
+        "chef_id": 1,
+        "cooking_method": "cook",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Fajitas",
+        "Ingredients": ["chicken breasts", "bell peppers", "onions", "tortillas", "salsa"],
+        "chef_id": 2,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Beef and Vegetable Stir Fry",
+        "Ingredients": ["beef sirloin", "broccoli florets", "carrots", "soy sauce", "brown sugar"],
+        "chef_id": 2,
+        "cooking_method": "Stair Fry",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Beef and Broccoli",
+        "Ingredients": ["beef sirloin", "broccoli florets", "soy sauce", "brown sugar", "cornstarch"],
+        "chef_id": 3,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Alfredo",
+        "Ingredients": ["fettuccine pasta", "chicken breasts", "heavy cream", "parmesan cheese", "garlic"],
+        "chef_id": 2,
+        "cooking_method": "steam",
+        "rating": "three Star"
+
+    },
+    {
+        "recipe_name": "Shrimp Scampi",
+        "Ingredients": ["shrimp", "spaghetti", "butter", "lemon juice", "garlic"],
+        "chef_id": 3,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Fajitas",
+        "Ingredients": ["chicken breasts", "bell peppers", "onions", "tortillas", "salsa"],
+        "chef_id":3,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Beef and Vegetable Stir Fry",
+        "Ingredients": ["beef sirloin", "broccoli florets", "carrots", "soy sauce", "brown sugar"],
+        "chef_id": 4,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Parmesan",
+        "Ingredients": ["chicken breasts", "flour", "eggs", "breadcrumbs", "mozzarella cheese"],
+        "chef_id":4,
+        "cooking_method": "Fry",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Spaghetti Carbonara",
+        "Ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "garlic"],
+        "chef_id": 4,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Beef Stroganoff",
+        "Ingredients": ["beef sirloin", "mushrooms", "onions", "sour cream", "egg noodles"],
+        "chef_id": 5,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Alfredo",
+        "Ingredients": ["fettuccine pasta", "chicken breasts", "heavy cream", "parmesan cheese", "garlic"],
+        "chef_id": 5,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+
+    },
+    {
+        "recipe_name": "Shrimp Scampi",
+        "Ingredients": ["shrimp", "spaghetti", "butter", "lemon juice", "garlic"],
+        "chef_id": 5,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Fajitas",
+        "Ingredients": ["chicken breasts", "bell peppers", "onions", "tortillas", "salsa"],
+        "chef_id":5,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Beef and Vegetable Stir Fry",
+        "Ingredients": ["beef sirloin", "broccoli florets", "carrots", "soy sauce", "brown sugar"],
+        "chef_id": 6,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Parmesan",
+        "Ingredients": ["chicken breasts", "flour", "eggs", "breadcrumbs", "mozzarella cheese"],
+        "chef_id":6,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Spaghetti Carbonara",
+        "Ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "garlic"],
+        "chef_id": 6,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Beef Stroganoff",
+        "Ingredients": ["beef sirloin", "mushrooms", "onions", "sour cream", "egg noodles"],
+        "chef_id": 5,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    },
+    {
+        "recipe_name": "Chicken Tikka Masala",
+        "Ingredients": ["chicken breasts", "yogurt", "tomato sauce", "garam masala", "heavy cream"],
+        "chef_id" : 1,
+        "cooking_method": "steam",
+        "rating": "Five Star"
+    }
+
+]
